@@ -3,24 +3,12 @@
 
 ---------------
 ### <ins>Interests & Active Research Areas</ins>
-#### _Robotics_
-* 🦑 Deep reinforcement learning for robotics
-* 📷 Vision-based robotic manipulation
-* 🩻 Surgical robotic automation
-#### _Machine Learning & Computer Vision_
 * ⚕️ Medical language models
-* 🧗🏼‍♂️ 3D image reconstruction
-#### _Biology & Computational Neuroscience_
-* 🧠 Learning in brain organoids
 * ⚡ Neuromorphic computing & spiking neural networks
-* 🚂 Meta-learning with models of synaptic plasticity
+* 🚂 Computational social science
 ---------------
 
 ### <ins>Work Experience</ins>
-* **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
-* **May 2023 - Sept 2023**: Research Affiliate @<a href="https://www.ucsc.edu/">UCSC</a> @<a href="https://ncg.ucsc.edu/">NCG</a>
-* **Feb 2023 - Present**: Research Assistant @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://caat.jhsph.edu/">CAAT</a>
-* **May 2019 - Present**: Computer Scientist @<a href="https://www.nrl.navy.mil/">NRL Space Robotics Lab</a>
-* **Aug 2018 - May 2019 & Jan 2020 - Apr 2020**: Research Assistant @<a href="https://www.gmu.edu/">GMU</a> @<a href="https://megl.science.gmu.edu/">MEGL</a>
-* **Jun 2018 - Feb 2019**: Data Science Intern @<a href="https://www.gartner.com/">Gartner</a>
-* **Mar 2017 - May 2018**: Python Developer @AsymmetriQ
+* **Dec 2023 - May 2023**: Data Science Intern @<a href="https://www.umd.edu/">UMD</a> 
+* **May 2022 - Aug 2023**: Data Science Intern @<a href="https://www.emdgroup.com/en/expertise/semiconductors/custom-innovation/intermolecular.html">Intermolecular</a> 
+* **Nov 2022 - Present**: Research Assistant @<a href="https://www.umd.edu/">UMD</a> @<a href="https://ischool.umd.edu">ischool</a>
