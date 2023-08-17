@@ -9,6 +9,6 @@
 ---------------
 
 ### <ins>Work Experience</ins>
+* **Nov 2022 - Present**: Research Assistant @<a href="https://www.umd.edu/">UMD</a> @<a href="https://ischool.umd.edu">ischool</a>
 * **Dec 2023 - May 2023**: Data Science Intern @<a href="https://www.umd.edu/">UMD</a> 
 * **May 2022 - Aug 2023**: Data Science Intern @<a href="https://www.emdgroup.com/en/expertise/semiconductors/custom-innovation/intermolecular.html">Intermolecular</a> 
-* **Nov 2022 - Present**: Research Assistant @<a href="https://www.umd.edu/">UMD</a> @<a href="https://ischool.umd.edu">ischool</a>
