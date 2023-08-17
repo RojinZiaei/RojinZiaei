@@ -1,16 +1,26 @@
-### Hi there 👋
+## Rojin Ziaei
+<a href="https://scholar.google.com/citations?user=xzxfjp0AAAAJ&hl=en"</a> / <a href="https://www.linkedin.com/in/nazdim-ziaei-549725a5/">LinkedIn</a> 
 
-<!--
-**RojinZiaei/RojinZiaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------------
+### <ins>Interests & Active Research Areas</ins>
+#### _Robotics_
+* 🦑 Deep reinforcement learning for robotics
+* 📷 Vision-based robotic manipulation
+* 🩻 Surgical robotic automation
+#### _Machine Learning & Computer Vision_
+* ⚕️ Medical language models
+* 🧗🏼‍♂️ 3D image reconstruction
+#### _Biology & Computational Neuroscience_
+* 🧠 Learning in brain organoids
+* ⚡ Neuromorphic computing & spiking neural networks
+* 🚂 Meta-learning with models of synaptic plasticity
+---------------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <ins>Work Experience</ins>
+* **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
+* **May 2023 - Sept 2023**: Research Affiliate @<a href="https://www.ucsc.edu/">UCSC</a> @<a href="https://ncg.ucsc.edu/">NCG</a>
+* **Feb 2023 - Present**: Research Assistant @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://caat.jhsph.edu/">CAAT</a>
+* **May 2019 - Present**: Computer Scientist @<a href="https://www.nrl.navy.mil/">NRL Space Robotics Lab</a>
+* **Aug 2018 - May 2019 & Jan 2020 - Apr 2020**: Research Assistant @<a href="https://www.gmu.edu/">GMU</a> @<a href="https://megl.science.gmu.edu/">MEGL</a>
+* **Jun 2018 - Feb 2019**: Data Science Intern @<a href="https://www.gartner.com/">Gartner</a>
+* **Mar 2017 - May 2018**: Python Developer @AsymmetriQ
